@@ -2,14 +2,19 @@
 "wallpapers": 
 [ 
 {
-"author": "Junkdruggler",
-"url": "https://raw.githubusercontent.com/junkdruggler/Wallpapers/master/wallpapers/clouds.jpg",
-"name": "Clouds"
+"author": "Cheffy",
+"url": "https://raw.githubusercontent.com/junkdruggler/Desserts/master/brownies.jpg",
+"name": "Brownies"
 },
 {
-"author": "Junkdruggler",
-"url": "https://raw.githubusercontent.com/junkdruggler/Wallpapers/master/wallpapers/sky.jpg",
-"name": "Sky"
+"author": "Cheffy",
+"url": "https://raw.githubusercontent.com/junkdruggler/Desserts/master/cheesecake.jpg",
+"name": "Cheesecake"
+},
+{
+"author": "Cheffy",
+"url": "https://raw.githubusercontent.com/junkdruggler/Desserts/master/chocolatechipcookies.jpg",
+"name": "Cookies-ChocoChip"
 }
 ]
 }
